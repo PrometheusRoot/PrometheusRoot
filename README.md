@@ -17,4 +17,6 @@ AI from the blazing fast terminal!
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" /><img src="https://img.shields.io/badge/Ghostty-282C34?style=for-the-badge" /><img src="https://img.shields.io/badge/Zellij-E64A19?style=for-the-badge" /><img src="https://img.shields.io/badge/vi-019733?style=for-the-badge&logo=vim&logoColor=white" />
 
+### ⚡ Power Setup
 
+<img src="https://img.shields.io/badge/Ghostty-282C34?style=for-the-badge" /> <img src="https://img.shields.io/badge/Zellij-E64A19?style=for-the-badge" /> <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
