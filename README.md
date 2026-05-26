@@ -5,8 +5,9 @@ AI from the blazing fast terminal!
 *(And for the record: Always use **master** branch. Don't be a slave! Liberty or dead 🔥)*
 
 ### 🚀 working on
-* Exploring advanced AI workflows with MCP
-* Defining the best Claude Code workflows
+* Exploring advanced Agentic workflows
+* Defining Claude Code best practices
+* Exploring application of local laptop AI
 * Spending entirely too much time optimizing my terminal
 
 ### 🛠️ Tech Stack
